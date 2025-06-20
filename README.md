@@ -1,20 +1,24 @@
 <h1 align="center">Hi there 👋, I'm Pratik</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=I'm+a+curious+developer.;I+love+building+cool+projects!;Learning+MERN+%2B+AI+tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=I'm+a+Software+Developer.;I+love+building+cool+projects!" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me :
-- 🌱 Currently learning **MERN Stack**
-- 🔭 Working on a Student result portal (for collages) 
-- 📫 Reach me at: pratikzambare76@gmail.com
-- 🤝 Looking to collaborate on Open Source  
-- ⚡ Fun fact: I love debugging more than coding 😅
+- 💻 Passionate Software Developer with a love for turning ideas into reality through code.  
+- 🔭 Currently working on a **Student Result Portal** for colleges.  
+- 🤝 Actively looking to collaborate on meaningful **Open Source Projects**.  
+- 📫 Reach me at: **pratikzambare76@gmail.com**  
+- 🧠 I enjoy solving logical problems, experimenting with UI/UX designs, and learning new technologies.  
+- 💬 I believe in continuous learning and sharing knowledge with others.
+- 🎯 Long-term goal: Become a **Full Stack + AI Developer** and contribute to impactful tech innovations.  
+- ⚡ **Fun Fact**: I'm an introvert-type person and a total overthinker 🤯 — but that makes me deeply focused and thoughtful in everything I do!  
+- 🧩 Outside coding, I love introspective thinking, minimalist design, and bingeing on tech documentaries.
+
 
 ---
-
 
 ### 🛠️ Languages and Tools:
 <p align="left">
@@ -41,11 +45,6 @@
 ### 🎯 Connect with me:
 <p>
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter" /></a>
-</p>
-
----
-
-### 🖼️ Fun GIF:
-<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <a href="mailto:pratikzambare76@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
+  <a href="https://www.instagram.com/being_pratik_13/?igsh=MTAwYWFyZXl6Nzhrcw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/917083918612"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
