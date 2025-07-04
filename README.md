@@ -6,17 +6,26 @@
 
 ---
 
-### 👨‍💻 About Me :
-- 💻 Passionate Software Developer with a love for turning ideas into reality through code.  
-- 🔭 Currently working on a **Keeper app** .  
-- 🤝 Actively looking to collaborate on meaningful **Open Source Projects**.  
-- 📫 Reach me at: **pratikzambare76@gmail.com**  
-- 🧠 I enjoy solving logical problems, experimenting with UI/UX designs, and learning new technologies.  
-- 💬 I believe in continuous learning and sharing knowledge with others.
-- 🎯 Long-term goal: Become a **Full Stack + AI Developer** and contribute to impactful tech innovations.  
-- ⚡ **Fun Fact**: I'm an introvert-type person and a total overthinker 🤯 — but that makes me deeply focused and thoughtful in everything I do!  
-- 🧩 Outside coding, I love introspective thinking, minimalist design, and bingeing on tech documentaries.
+👨‍💻 About Me :
+💻 Passionate Software Developer with a love for turning ideas into reality through code.
 
+🔧 Currently working on: A Keeper App using React.js & Tailwind CSS.
+
+📚 Currently learning: The MERN Stack – MongoDB, Express.js, React.js, and Node.js.
+
+🤝 Actively looking to collaborate on meaningful Open Source Projects.
+
+📫 Reach me at: pratikzambare76@gmail.com
+
+🧠 I enjoy solving logical problems, experimenting with UI/UX designs, and learning new technologies.
+
+💬 I believe in continuous learning and sharing knowledge with others.
+
+🎯 Long-term goal: Become a Full Stack + AI Developer and contribute to impactful tech innovations.
+
+⚡ Fun Fact: I'm an introvert-type person and a total overthinker 🤯 — but that makes me deeply focused and thoughtful in everything I do!
+
+🧩 Outside coding, I love introspective thinking, minimalist design, and bingeing on tech documentaries.
 
 ---
 
