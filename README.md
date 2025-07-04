@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me :
 - 💻 Passionate Software Developer with a love for turning ideas into reality through code.  
-- 🔭 Currently working on a **Student Result Portal** for colleges.  
+- 🔭 Currently working on a **Keeper app** .  
 - 🤝 Actively looking to collaborate on meaningful **Open Source Projects**.  
 - 📫 Reach me at: **pratikzambare76@gmail.com**  
 - 🧠 I enjoy solving logical problems, experimenting with UI/UX designs, and learning new technologies.  
